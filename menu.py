@@ -11,7 +11,6 @@ class Menu:
             [
                 ["Espresso", "$1.50"],
                 ["Latte", "$2.50"],
-                ["Cappucino", "$3.00"]
+                ["Cappuccino", "$3.00"]
             ]
-        )    
-    
+        )

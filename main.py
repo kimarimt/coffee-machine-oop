@@ -1,9 +1,9 @@
-from menu import Menu
+from coffee_machine import CoffeeMachine
 
 
 def main():
-    menu = Menu()
-    print(menu.board)
+    machine = CoffeeMachine()
+    machine.operate()
 
 
 if __name__ == '__main__':
