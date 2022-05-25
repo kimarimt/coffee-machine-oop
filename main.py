@@ -1,5 +1,9 @@
+from menu import Menu
+
+
 def main():
-    print('Hello, World!')
+    menu = Menu()
+    print(menu.board)
 
 
 if __name__ == '__main__':
